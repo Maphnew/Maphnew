@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning HTML, CSS, JavaScript!
+- 📫 How to reach me: ✉️ zcm3118@gmail.com
+
 <!--
 **Maphnew/Maphnew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
