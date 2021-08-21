@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+- 🔭 I’m currently working on Front-end issues!
 - 🌱 I’m currently learning HTML, CSS, JavaScript!
 - 🤔 I’m looking for help with `this`!
 - 📫 How to reach me: ✉️ zcm3118@gmail.com
