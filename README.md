@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Front-end issues!
-- 🌱 I’m currently learning HTML, CSS, JavaScript!
-- 🤔 I’m looking for help with webpack!
+- 🌱 I’m currently learning React, Redux, Webpack!
+- 🤔 I’m looking for help with Redux!
 - 📫 How to reach me: ✉️ zcm3118@gmail.com
 
 <!--
