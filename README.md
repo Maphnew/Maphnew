@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Front-end issues!
-- 🌱 I’m currently learning OOP, TypeScript, Clean Code, Refactoring, TDD!
-- 🤔 I’m looking for help with TDD!
+- 🌱 I’m currently learning frameworkless front-end!
+- 🤔 I’m looking for help with 물경력!
 - 📫 How to reach me: ✉️ zcm3118@gmail.com
 
 <!--
